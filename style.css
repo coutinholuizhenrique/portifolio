@@ -1,0 +1,50 @@
+
+
+body{
+    height: 200vh;
+    box-sizing: border-box;
+    background-color:gray;
+    color:#3CFACE;text-align: center;
+
+}
+h1{
+     background-color: blue;
+}
+
+strong{
+color:b#FAE595
+aprsentação links{
+     display:flex;
+     justify-content: space-between;
+}
+
+.apresentação_links{
+     display: flex;
+     justify-content: space-between;
+}
+.apresentação_links_link{
+background-color: #FAE595;
+width: 300px;
+text-align: center;
+border-radius: 11px; 
+font-size: 32px;
+font-weight: 600;
+padding: 21.5px 0;
+text-decoration:nome;
+color: #FAE595;
+font-family:"montser";
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+}
